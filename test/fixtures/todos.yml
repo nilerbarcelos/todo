@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  descricao: MyText
+  prazo: 2009-02-16
+  feito: false
+
+two:
+  descricao: MyText
+  prazo: 2009-02-16
+  feito: false
